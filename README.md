@@ -6,4 +6,4 @@ PROSAIC es una herramienta prototipo para el análisis, simulación y diseño de
 
 ### Instalación
 
-La forma más sencilla de instalar PROSAIC es descargar el [archivo comprimido](./PROSAIC%200.2.zip) y descomprimirlo en una carpeta del ordenador local.
+La forma más sencilla de instalar PROSAIC es descargar el [archivo comprimido](./PROSAIC/PROSAIC%200.2.zip) y descomprimirlo en una carpeta del ordenador local.
